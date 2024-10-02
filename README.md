@@ -23,4 +23,4 @@ npm start
 
 
 elitepvpers: https://www.elitepvpers.com/forum/coding-releases/
-https://www.elitepvpers.com/images/logo.png
+![ElitePVPers Logo](https://www.elitepvpers.com/images/logo.png)
