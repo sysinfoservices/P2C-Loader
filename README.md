@@ -19,3 +19,8 @@ npm install
 npm run jwt:secret
 npm start 
 ```
+
+
+
+elitepvpers: https://www.elitepvpers.com/forum/coding-releases/
+https://www.elitepvpers.com/images/logo.png
